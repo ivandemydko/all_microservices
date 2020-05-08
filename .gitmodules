@@ -1,0 +1,24 @@
+[submodule "microservice-cluster-config-store"]
+	path = microservice-cluster-config-store
+	url = https://github.com/ivandemydko/microservice-cluster-config-store
+[submodule "cluster_of_microservices_authorization_service"]
+	path = cluster_of_microservices_authorization_service
+	url = https://github.com/ivandemydko/cluster_of_microservices_authorization_service
+[submodule "cluster_of_microservices_discovery_service"]
+	path = cluster_of_microservices_discovery_service
+	url = https://github.com/ivandemydko/cluster_of_microservices_discovery_service
+[submodule "cluster_of_microservices_config-service"]
+	path = cluster_of_microservices_config-service
+	url = https://github.com/ivandemydko/cluster_of_microservices_config-service
+[submodule "cluster_of_microservices_second_service"]
+	path = cluster_of_microservices_second_service
+	url = https://github.com/ivandemydko/cluster_of_microservices_second_service
+[submodule "cluster_of_microservices"]
+	path = cluster_of_microservices
+	url = https://github.com/ivandemydko/cluster_of_microservices
+[submodule "cluster_of_microservices_first_service"]
+	path = cluster_of_microservices_first_service
+	url = https://github.com/ivandemydko/cluster_of_microservices_first_service
+[submodule "cluster_of_microservices_model_for_microservices"]
+	path = cluster_of_microservices_model_for_microservices
+	url = https://github.com/ivandemydko/cluster_of_microservices_model_for_microservices
